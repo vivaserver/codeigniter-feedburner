@@ -1,4 +1,12 @@
 <?php
+  #
+  # Feedburner
+  #
+  #  A little CodeIgniter 1.7.x library for getting and caching Feedburner data
+  #
+  # (c)2011 Cristian R. Arroyo <cristian.arroyo@vivaserver.com.ar>
+  #
+
   if (!defined('BASEPATH')) exit('No direct script access allowed');
 
   class Feedburner
